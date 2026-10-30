@@ -1,0 +1,8 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+*.pub
+tera-key-ec2
+tera-key-ec2.pub
+.env
